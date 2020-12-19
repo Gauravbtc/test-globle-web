@@ -72,7 +72,7 @@ rspec
 
 Sample code before improvement 
 
-```
+```ruby
 # authentication API
 def auth
   user = User.find(params[:username])
