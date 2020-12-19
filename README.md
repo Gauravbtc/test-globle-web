@@ -1,6 +1,6 @@
 # Global Pre Test
 
-This repository of globale program test
+This repository of global program test
   
 ## Installation
 
