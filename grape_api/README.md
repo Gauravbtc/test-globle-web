@@ -1,5 +1,4 @@
 #### 1. how rails routing works internally?
-
 Ans:  When client sent request to rails server, server will recevied the request and pass to rails router, Router will examines the URL of incoming requests and determines the controller action responsible for handling  request. After examines it will passed the request to the respected controller's action. controller will recevied the request perform some database operation on after that it will render any json or HTML webpage to the client screen
 
 #### 2. how is it different from routing implementation in Grape API?
@@ -11,5 +10,4 @@ Ans. Rails framework routing use routes.rb, and will process to controllers, and
      where as grape API routing use mount at routes.rb, when request come, the request will go to routes rails app, and forwarded to grape api module, and after processing at module finish the request will have a some output.
 
 #### Conclusion
-     Grape API endpoints (classes inheriting from Grape::API) are basically equivalent to Rails controllers. Grape API can be suitable for microservices kind of architecture.
-
+ Grape API endpoints (classes inheriting from Grape::API) are basically equivalent to Rails controllers. Grape API can be suitable for microservices kind of architecture.
