@@ -1,6 +1,6 @@
 # Global Pre Test
 
-This repository for globle program test solution.
+This repository for global program test solution.
   
 ## Installation
 
