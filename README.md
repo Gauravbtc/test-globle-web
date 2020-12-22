@@ -49,7 +49,7 @@ http://localhost:3000
  
 #### 2. Single Variable Integer Queue
 
-It's a ruby application which is perform queue and can enqueue and dequeue elements using single integer variable.  
+It's a ruby application which is perform enqueue and dequeue elements using single integer variable.  
 
 #### Installation
 
